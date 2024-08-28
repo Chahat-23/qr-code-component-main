@@ -1,0 +1,50 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    top:0
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+/* General styles */
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* QR Code Card styles */
+.qr-card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    width: 250px;
+    max-width: 90%;
+    text-align: center;
+}
+
+.qr-image {
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+}
+
+.qr-title {
+    font-size: 20px;
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    margin: 15px 5px;
+}
+
+.qr-subtitle {
+    font-size: 14px;
+    color: hsl(216, 15%, 48%);
+    font-weight: 400;
+    margin: 15px 10px;
+}
