@@ -24,7 +24,7 @@ body {
     border-radius: 12px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 15px;
-    width: 250px;
+    width: 320px;
     max-width: 90%;
     text-align: center;
 }
@@ -36,15 +36,15 @@ body {
 }
 
 .qr-title {
-    font-size: 20px;
+    font-size: 25px;
     color: hsl(218, 44%, 22%);
     font-weight: 700;
     margin: 15px 5px;
 }
 
 .qr-subtitle {
-    font-size: 14px;
+    font-size: 15px;
     color: hsl(216, 15%, 48%);
     font-weight: 400;
-    margin: 15px 10px;
+    margin: 15px 20px;
 }
