@@ -4,8 +4,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Screenshot
 
-![image](https://github.com/user-attachments/assets/986320d4-4d3d-46f1-8112-dc2ba1e4a506)
+![image](https://github.com/user-attachments/assets/146e6e3c-2243-45c3-9398-fb8ad7b0af40)
+
 
 ## Links
 
-- Live Site URL: https://qr-code-component-beta-orcin.vercel.app/
+- Live Site URL: https://qr-code-component-main-chahat-23s-projects.vercel.app/
